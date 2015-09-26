@@ -1,8 +1,11 @@
-Simple line follower robot
-==========================
+# Simple line follower robot
 
-For educational purposes.
+---
 
-Copyright © 2014 Daniel (tinyprog.github.io)
-Software under MIT License, other assets under Creative Commons Attribution (CC-BY) 4.0.
+A small robot in one board, for educational purposes.
 
+---
+
+Copyright © 2014 Daniel Lima
+
+Software under MIT License, other assets under Creative Commons CC-BY 4.0.
